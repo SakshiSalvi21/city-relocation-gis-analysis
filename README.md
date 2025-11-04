@@ -1,6 +1,11 @@
 # Relocation Analysis – Descriptive Analytics
 
-This repo contains graded deliverables for a descriptive analytics project evaluating Canadian cities for post‑graduation relocation. It includes SQL, an Excel workbook, and a presentation. Structure is clean and beginner‑friendly so you can upload directly to GitHub.
+A descriptive analytics project evaluating major Canadian cities using SQL and Excel 3D Maps (GIS) to determine the **optimal city to relocate to after graduation**.  
+Completed as part of the INFO8135 course at Conestoga College.
+
+**Grade Achieved:** 100%  
+**Course:** INFO8135 – Descriptive Analytics  
+**Institution:** Conestoga College
 
 ## What’s inside
 ```
