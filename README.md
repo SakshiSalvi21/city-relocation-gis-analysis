@@ -34,5 +34,8 @@ city-relocation-gis-analysis-for-descriptive-analytics/
 - Gas price (cost of mobility)
 - Weather/precipitation (livability)
 
+## Watch the full tour video (Google Drive link)
+https://drive.google.com/file/d/13GWedlvSUTH1os3OFbmWznPe9qIl-w4F/view?usp=drive_link
+
 ## License
 MIT License.
