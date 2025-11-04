@@ -17,17 +17,17 @@ city-relocation-gis-analysis-for-descriptive-analytics/
 ```
 
 ### Key files
-- `excel/Practical_Assignment_03.xlsx` – the main workbook (graded)
-- `reports/Practical_Assignment_03.pptx` – slides summarizing insights
+- `excel/City_Relocation_GIS_Analysis.xlsx` – the main workbook (graded)
+- `reports/City_Relocation_GIS_Analysis.pptx` – slides summarizing insights
 - `sql/Create_Tables.sql`, `sql/Insert_Data.sql`, `sql/Select_Script.sql` – database DDL/DML and queries
 
 ## Reproduce the analysis
 1. Load the tables using `sql/Create_Tables.sql`, then populate with `sql/Insert_Data.sql`.
 2. Run `sql/Select_Script.sql` to extract the metrics you need for Excel.
-3. Open `excel/Practical_Assignment_03.xlsx`, refresh queries/pivots if used.
+3. Open `excel/City_Relocation_GIS_Analysis.xlsx`, refresh queries/pivots if used.
 4. Review visuals and findings (see `/reports` for the presentation).
 
-## Suggested metrics and storytelling
+## Metrics and storytelling
 - Employment/Unemployment rates
 - Average Rent CPI (affordability proxy)
 - Violent Crimes per 100K (safety proxy)
